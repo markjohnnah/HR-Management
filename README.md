@@ -22,6 +22,7 @@ This project building on **.NET 6**, using for Human Resource Management for IT 
 * Import excel file.
 * Getting data with pagination.
 * Logging information to console and file.
+*To do - add blazor client, integrate db, create CI/CD pipeline
 
 ## Diagram
 
